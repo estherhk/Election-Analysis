@@ -34,7 +34,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
     
 ## Challenge Overview
 
-Using Visual Studio Code, an analysis was completed to display the winner of an election that took place in three counties: Arapahoe, Denver, and Jefferson. Candidates who ran were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.  After tallying the 369,722 that were casted, Dianna DeGette won the election receiving 73.8% of the vote and 272,892 number of votes.
+Using Visual Studio Code, an analysis was completed to display the winner of an election that took place in three counties: Arapahoe, Denver, and Jefferson. Candidates who ran were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.  After tallying the 369,722 votes that were casted, Dianna DeGette won the election receiving 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Summary
 
